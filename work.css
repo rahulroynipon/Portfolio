@@ -1,0 +1,14 @@
+.work_h{
+    font-size: 2.5rem;
+    font-weight: bold;
+    padding-left: .6rem;
+    padding-bottom: 4rem;
+    color: rgb(48, 45, 45);
+}
+
+@media only screen and (max-width: 767px) {
+    .work_h{
+        text-align: center;
+        padding-bottom: 2rem;
+    }
+  }
