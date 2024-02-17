@@ -1,0 +1,25 @@
+.blog{
+    padding-top: 100px;
+}
+
+.blog_h{
+    font-size: 2.3rem;
+    font-weight: bold;
+    padding-left: .6rem;
+    padding-bottom: .8rem;
+}
+
+.blog_m{
+    margin-bottom: 3rem;
+    padding-bottom: 3rem;
+}
+
+@media only screen and (max-width: 767px) {
+    .blog{
+        padding-top: 50px;
+    }
+
+    .blog_h{
+        padding-bottom: 0;
+    }
+  }
