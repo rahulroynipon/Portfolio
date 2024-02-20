@@ -1,3 +1,3 @@
 # Portfolio
 
-### [visit here](https://rahulroynipon.github.io/Portfolio/)
+### [click here](https://rahulroynipon.github.io/Portfolio/)
